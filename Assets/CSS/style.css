@@ -64,6 +64,7 @@ body{
         .about{
             background-color: #ffffff;
             padding: 10px 20px;
+            border-radius: 20px;
             .about-container{
                 margin-bottom: 20px;
                 h2{
